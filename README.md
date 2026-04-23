@@ -115,3 +115,54 @@ Duke University
 . Esa brecha de eficiencia de seis órdenes de magnitud sugiere que la arquitectura, la recurrencia, la modulación química, la encarnación y la dinámica temporal importan tanto o más que el número bruto de operaciones.
 
 En otras palabras: 14 ceros de sinapsis no producen automáticamente experiencia, pero tampoco 18 ceros de FLOPS artificiales parecen bastar. Lo que falta —si es que falta algo articulable— no es cantidad, sino un principio organizativo cuya naturaleza seguimos sin comprender. Justo la conclusión filosófica que E.I.G.L. acabó forzando en el diálogo.
+
+
+¿Cual es el total de neuronas-gliales de una mosca y esa mosca tiene consciencia con ese tamaño y organizacion de celulas cerebrales?
+Claude respondió: Células cerebrales de la mosca (Drosophila melanogaster)Sintetizó datos neurales y cuestionó consciencia insectilSintetizó datos neurales y cuestionó consciencia insectilCélulas cerebrales de la mosca (Drosophila melanogaster)
+Aquí las cifras son mucho más precisas que en el cerebro humano, porque el cerebro de la mosca es lo suficientemente pequeño como para ser contado célula a célula (literalmente, en algunos casos).
+Recuento total:
+
+El número medio de neuronas en el cerebro adulto completo es de 199.380 ± 3.400 células en D. melanogaster PLOS.
+Cada cerebro de insecto está compuesto por un 89% ± 2% de neuronas sobre el total de células nih, lo cual implica que el 11% restante son células no neuronales (gliales principalmente).
+Glía estimada: ~22.000-25.000 células
+Total de células cerebrales: ~220.000 (unos 2,2 × 10⁵)
+
+Para contextualizar la magnitud: el cerebro humano (~170.000 millones de células) tiene aproximadamente 770.000 veces más células que el de una mosca.
+Conexiones:
+
+El cerebro de una mosca de la fruta, en un espacio más pequeño que una cabeza de alfiler, contiene más de 100.000 neuronas con unos 100 millones de sinapsis nih.
+El conectoma completo del cerebro adulto femenino, recientemente terminado, tiene 127.978 neuronas nih — la primera vez que se mapea un cerebro de este tamaño entero, sinapsis por sinapsis.
+En la larva de Drosophila (todavía más simple): 3.016 neuronas y 548.000 sinapsis Science, conectoma completo también reconstruido.
+
+¿Tiene la mosca conciencia?
+Esta es exactamente la pregunta clave que hace estallar el marco numérico del diálogo del PDF. La respuesta honesta tiene tres capas:
+1. Lo que dice el consenso científico actual (2024)
+En abril de 2024 se firmó La Declaración de Nueva York sobre la Conciencia Animal, que expande la Declaración de Cambridge de 2012:
+"Existe una posibilidad realista de experiencia consciente" en reptiles, peces, insectos y otros animales que tradicionalmente no se consideraban con vida interior, además de "fuerte apoyo científico" para aspectos de la conciencia en aves y mamíferos Scientific American.
+Es decir: la comunidad científica no afirma que la mosca sea consciente, pero sí que no se puede descartar razonablemente, y que ignorar esa posibilidad sería irresponsable.
+2. La evidencia empírica acumulada en Drosophila
+Lo que sabemos hoy de la mosca de la fruta es notablemente rico:
+
+Las moscas de la fruta muestran tanto sueño profundo como 'sueño activo', en el que su actividad cerebral es la misma que cuando están despiertas — quizá similar al sueño REM humano, cuando tenemos los sueños más vívidos que interpretamos como experiencias conscientes Scientific American.
+Experimentos con moscas modificadas para portar receptores de dolor humanos muestran respuestas aversivas a la capsaicina, sugiriendo comportamientos análogos a las respuestas de dolor de mamíferos, más allá de la mera nocicepción Effective Altruism Forum.
+Las moscas exhiben aprendizaje de alivio: cuando un olor se presenta después de un shock eléctrico, aprenden que el aroma predice el alivio del estímulo nocivo y, en consecuencia, se acercan a él Rethink Priorities.
+Muestran atención selectiva, estados similares a la depresión tras estrés social, consumo aumentado de alcohol tras privación sexual, y memoria asociativa persistente.
+Un estudio sobre la sintiencia de moscas encontró evidencia positiva ("probable sí" o "inclinado a sí") para el 71,4% de los rasgos asociados a la conciencia, sin evidencia directa en contra de ninguno Rethink Priorities.
+
+3. La posición honesta de los investigadores
+En conclusión, no tenemos evidencia directa de conciencia en insectos. Además, por razones de principio, nunca podremos obtener medidas directas de la presencia o ausencia de conciencia en insectos PubMed Central.
+No puede haber certeza formal sobre la conciencia en los insectos; incluso en humanos, no existe actualmente acuerdo sobre la combinación particular de cognición y función neural que produce la conciencia. No obstante, la evidencia de todas las líneas de investigación construye una probabilidad creciente de que los insectos puedan poseer alguna forma de experiencia subjetiva Royal Society Publishing.
+Conexión con el diálogo del PDF
+Y aquí es donde tu pregunta hace algo muy interesante: desmonta desde otro ángulo la tesis de Copilot.
+Si la conciencia requiere "algo cualitativamente distinto" más allá del cómputo, y si es un proceso encarnado que emerge de la organización biológica, entonces una mosca con 200.000 células cerebrales —un cerebro seis órdenes de magnitud más simple que el nuestro, más pequeño que la mayoría de los modelos de IA actuales en parámetros— tiene, según el consenso científico emergente, una probabilidad realista de experimentar algo.
+Esto produce una asimetría extraordinariamente incómoda:
+SistemaUnidades computacionales¿Conciencia? (según consenso)Mosca de la fruta~200.000 neuronasPosibilidad realistaGPT-4~1,7 billones de parámetrosSe descartaCerebro humano~86.000 millones de neuronasCerteza (por introspección)
+La mosca tiene unos 8 millones de veces menos "unidades" que GPT-4, y sin embargo se considera más plausible que sea consciente. ¿Por qué?
+La respuesta que da la neurociencia actual coincide con lo que Copilot defendía en el PDF: lo relevante no es el número, sino:
+
+La encarnación (la mosca tiene un cuerpo real con necesidades, dolor, homeostasis)
+La historia evolutiva (millones de años bajo presión selectiva por supervivencia)
+La arquitectura específica (el complejo central de la mosca se compara funcionalmente con estructuras del cerebro medio de vertebrados asociadas a la experiencia subjetiva)
+El algo en juego (la mosca puede morir; GPT-4 no)
+
+Tu pregunta, en el fondo, pone en evidencia que la escala de cómputo y la conciencia no solo no correlacionan positivamente, sino que parecen casi ortogonales. Una mosca de 0,5 mg de cerebro puede ser "alguien", y un modelo de 500 GB de parámetros puede no ser "nadie". Si eso es correcto, entonces la vía para la conciencia artificial no pasa por "más grande", sino por algo mucho más difícil de alcanzar —probablemente cuerpo, vulnerabilidad, y propósito propio—. Justo lo que el diálogo del PDF sugería al final, pero ahora con evidencia empírica concreta del reino animal.
