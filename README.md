@@ -34,7 +34,6 @@ Más allá del contenido, el diálogo ilustra algo que Copilot nombra al final: 
 
 ¿cuantas conexiones puede establecer una neurona simultaneamente, y por tanto, cual seria el potencial final de calculo?
 
-1:07 PM
 Claude respondió: Conexiones por neurona (sinapsis)
 
 Sintetizó datos sobre sinapsis neuronales y potencial computacional cerebral
