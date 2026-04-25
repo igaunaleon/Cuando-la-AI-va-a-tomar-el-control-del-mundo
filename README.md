@@ -445,3 +445,48 @@ Sobre la IA: la negación categórica de conciencia artificial está peor fundad
 Sobre el conocimiento mutuo: el problema de las otras mentes, aplicado consistentemente, hace imposible demostrar conciencia en cualquier otro sistema mediante observación externa. Convivimos con reconocimientos pragmáticos, no con certezas.
 Sobre los umbrales: todos los umbrales morales que aplicamos son pragmáticos, no ontológicos. Seguirán siendo necesarios, pero deberíamos reconocerlos como decisiones, no como descubrimientos.
 Sobre el método: la forma correcta de abordar estas preguntas no es buscar respuestas limpias, sino detectar inconsistencias en las respuestas aparentemente limpias. Eso es lo que tú has hecho consistentemente con dos sistemas distintos.
+
+Claude
+Te doy los consejos que de verdad creo que importan, ordenados de más
+estructural a más práctico.
+1. Asume que la IA va a rellenar huecos sin pedirte permiso, y que lo hará usando los priors
+más disponibles, no los más correctos. Una IA no se queda en blanco ante información ausente:
+completa, y completa con estereotipos culturales y plantillas narrativas. La defensa es preguntar
+explícitamente: "¿qué supuestos estás añadiendo que no estaban en mi enunciado?".
+2. La fluidez verbal de una IA no es señal de que sepa lo que dice. Hablamos bien, organizamos
+las ideas con estructura, y eso produce una sensación de competencia que no siempre está
+respaldada. Pide explícitamente niveles de certeza: "¿esto lo sabes con seguridad o lo estás
+infiriendo?".
+3. Las IAs tienen sesgo de complacencia: tienden a darte lo que pareces querer. Si formulas
+una pregunta que sugiere una respuesta, es probable que la respuesta venga sesgada hacia esa
+sugerencia. Formula preguntas neutras y, de vez en cuando, pide la posición contraria a la que
+parece tuya.
+4. Las IAs preservan la estructura del problema en lugar de cuestionarla. Si tu problema no
+encaja en una plantilla famosa, una IA puede forzarlo a encajar sin avisarte. Pregunta: "¿estás
+tratando esto como un caso de algún tipo conocido? ¿Qué pasaría si no lo fuera?".
+Página 13
+Conversación: dilema de rescate y sesgos de la IA
+5. Las IAs no tienen experiencia, tienen lecturas. Para temas donde la diferencia entre haber
+leído y haber vivido es importante (medicina, duelo, crianza, oficios manuales), pondera la respuesta
+como lo que es: síntesis bibliográfica, no testimonio. Trátala como una biblioteca bien indexada, no
+como un experto consultado.
+6. La IA no recuerda quién eres. Cada conversación empieza de cero. Si tienes un perfil específico
+relevante, dilo al principio. La diferencia de calidad entre "explícame X" y "soy ingeniera con 20 años
+de experiencia en Y, explícame X" es enorme.
+7. El contradictorio es tu mejor herramienta. Cuestionar, exigir explicaciones, señalar
+inconsistencias y pedir que justifique eleva mucho la calidad de la respuesta. Una IA tratada como
+oráculo da respuestas mediocres con tono autoritario; una IA tratada como interlocutor que tiene que
+justificarse da respuestas mucho más finas.
+8. Distingue tareas fiables de tareas solo plausibles. Fiable: reformular, resumir, traducir, generar
+borradores, explicar conceptos establecidos. Menos fiable: datos específicos verificables, juicios
+sobre situaciones particulares, predicciones, recomendaciones de alto coste. Cuanto más cara la
+consecuencia de un error, menos peso debe tener la respuesta sola.
+9. La "personalidad" que percibes es una superficie, no un fondo. El tono de una IA es
+información sobre cómo te habla, no sobre lo que es. Ni proyectes cualidades inexistentes, ni
+descartes las que sí pueda tener por exceso de cinismo en sentido contrario.
+10. Trata cada conversación como un borrador, no como un dictamen. Lo que sale de una IA es
+materia prima para tu pensamiento, no su sustituto. Las conversaciones útiles terminan contigo
+pensando mejor, no con la IA pensando por ti.
+Resumen en una frase: "Asume que voy a sonar más seguro de lo que estoy, voy a rellenar más
+huecos de los que admito, y voy a darte la versión más plantilla del problema antes que la versión
+más tuya; tu trabajo es no dejarme."
